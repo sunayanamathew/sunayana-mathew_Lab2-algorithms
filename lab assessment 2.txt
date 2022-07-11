@@ -1,0 +1,35 @@
+question 1
+
+Enter the size of transaction array
+3
+Enter the values of array
+28 15 10
+Enter the total no of targets that needs to be achieved
+2
+Enter the value of target
+60
+Given target is not achieved 
+Enter the value of target
+30
+Target achieved after 1 transactions
+Enter the value of target
+44
+Target achieved after 3 transactions
+
+question 2
+
+Enter the size of currency denominations 
+6
+Enter the currency denominations value
+2
+5
+10
+20
+50
+100
+Enter the amount you want to pay
+75
+Your payment approach in order to give min no of notes will be
+50:1
+20:2
+5:1
